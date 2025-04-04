@@ -9,9 +9,7 @@ Our study combines empirical data, network modeling, and statistical analysis to
 ![combined_ratios_barchart](https://github.com/user-attachments/assets/7017acac-59cf-4463-9733-690b9fb002e5)
 **Figure.** Production fate ratios (left) and consumption origin ratios (right) for all twelve Pacific Island countries (PICs). PICs are represented on each chart by columns on the x-axis, and the y-axis displays proportions for where each country’s fisheries production goes (production fate) and where consumed fisheries originate from (consumption origin). Proportions are calculated in units of species tonnes. For the production fate ratio chart, teal represents the proportion of each country’s catch that is ultimately exported for foreign consumption, while the orange represents the proportion that stays in the PIC for domestic consumption. The dotted line shows the average amount that is exported (≈ 65%). The consumption origin ratio chart displays in blue the proportion of fisheries consumed in PICs that are imported from foreign sources, and in yellow the proportion that was originally produced domestically in that same PIC. The dotted line shows the average share of consumption that is domestically produced (i.e., domestic consumption) at ≈ 73%.
 
-element { 
-  font-size: 75; haha
-}
+
 ## Collaborators and Co-Authors 
 - Keiko Nomura, ESIIL
 - Min Gon Chun, ESIIL
