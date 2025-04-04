@@ -1,65 +1,34 @@
-# [Your Name]
+# Seafood Trade and Nutrient Flows in Pacific Island Countries
 
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+## Project Summary
 
-## Your Project
+Aquatic food trade distributes essential dietary nutrients from fisheries to countries around the world. However, these international trade networks can be impacted by a range of environmental or socioeconomic factors, like changes in fisheries management, trade relations, industry financing, and more. Such disruptions can lower fisheries production and/or increase seafood imports, with potentially more severe negative impacts on already nutrient-insecure countries that are vulnerable to supply chain changes. In Oceania, several Pacific Island countries may be especially vulnerable to negative outcomes from fisheries supply chain changes. Health-wise, the region’s caloric needs are highly dependent on imports, unhealthy food imports are rising, and diet-related health ailments remain a challenge. Additionally, much of the global tuna supply is harvested from the productive Pacific Ocean waters surrounding these countries, but the nutrients from these fisheries tend to flow towards more nutrient-secure countries via trade and foreign fishing. Pacific Island countries may therefore occupy the role of “source” for seafood, while not receiving many social or health benefits. A thorough understanding of how seafood-derived nutrients move through international trade networks is therefore crucial for equitable progress towards desired development outcomes.
 
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+Our study combines empirical data, network modeling, and statistical analysis to assess the roles of Pacific Island countries in distributing fisheries-derived nutrients globally, along with the ways that social-ecological factors may influence these nutrient flows. We leverage consumption data from the Aquatic Resources in Trade Database and nutrient data from the Aquatic Food Composition Database to analyze these topics. Specifically, we explore the net flows of fisheries-derived nutrients in and out of Pacific Island countries, the roles (i.e., source, exporter, or consumer) that countries occupy in these international networks, and the impacts of economic, fisheries, and oceanographic factors on these networks. Initial results indicate that Pacific Island countries have net outflows of fisheries-derived nutrients, often being sources and exporters of protein, vitamin B12, and fatty acids towards other countries. Domestic production and consumption comprises a substantial portion of the nutrients retained in the region, and fisheries and trade agreements may influence country-specific dynamics. Overall, this study may contribute to understanding the ways that globalized fisheries affect nutrient distributions worldwide.
 
-## Project Proposal
+![combined_ratios_barchart](https://github.com/user-attachments/assets/7017acac-59cf-4463-9733-690b9fb002e5)
+**Figure.** Production fate ratios (left) and consumption origin ratios (right) for all twelve Pacific Island countries (PICs). PICs are represented on each chart by columns on the x-axis, and the y-axis displays proportions for where each country’s fisheries production goes (production fate) and where consumed fisheries originate from (consumption origin). Proportions are calculated in units of species tonnes. For the production fate ratio chart, teal represents the proportion of each country’s catch that is ultimately exported for foreign consumption, while the orange represents the proportion that stays in the PIC for domestic consumption. The dotted line shows the average amount that is exported (≈ 65%). The consumption origin ratio chart displays in blue the proportion of fisheries consumed in PICs that are imported from foreign sources, and in yellow the proportion that was originally produced domestically in that same PIC. The dotted line shows the average share of consumption that is domestically produced (i.e., domestic consumption) at ≈ 73%.
 
-[Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
 
-## Collaborators
-- ...
+## Collaborators and Co-Authors 
+- Keiko Nomura, ESIIL
+- Min Gon Chun, ESIIL
+- Steven Mana'oakamai Johnson, Cornell University
+- Jacob Eurich, Environmental Defense Fund
+- Harrison Hartle, Santa Fe Institute
 
-## Code Repository
 
-This section of the repository will include all the code developed for the project. You can structure it as follows:
+## Outputs
+### Talks
+- ESIIL Environmental Data Science Seminar, Oral Presentation (Nov. 2024)
+- CU Boulder Environmental Science Seminar, Oral Presentation (Feb. 2024)
+- Women in Network Science Seminar, Oral Presentation (April 2024) 
+- One Ocean Science Congress, Oral Presentation (June 2024 - upcoming)
 
-- **Analysis Code**: Scripts for data analysis, statistical modeling, etc.
-- **Data Processing**: Scripts for cleaning, merging, and managing datasets.
-- **Visualization**: Code for creating figures, charts, and interactive visualizations.
+### Papers
+- International nutrient flows from seafood trade in the Pacific, Environmental Research Letters, _in prep_
 
-## Meeting Notes and Agendas
 
-Meeting notes and agendas will be regularly updated here to keep all group members informed and engaged with the progress and direction of the project.
-
-## Contributing to This Repository
-
-We welcome contributions from all group members. To maintain the quality and integrity of the repository, please adhere to the following guidelines:
-
-- Make sure all commits have a clear and concise message.
-- Document any major changes or decisions in the meeting notes.
-- Review and merge changes through pull requests to ensure oversight.
-
-## Getting Help
-
-If you encounter any issues or have questions about how to contribute, please refer to the [ESIIL Support Page](https://esiil.org/support) or contact the repository maintainers directly.
-
-## Customize Your Repository
-
-As a new working group, you'll want to make this repository your own. Here's how to get started:
-
-1. **Edit This Readme**: Replace the placeholder content with information about your specific project. Ensure that the introduction, project overview, and objectives clearly reflect your group's research focus.
-
-2. **Update Group Member Bios**: Add details about each group member's expertise, role in the project, and professional background. Include links to personal or professional web pages to foster community engagement and collaboration.
-
-3. **Organize Your Code**: Structure your codebase in a way that is logical and accessible. Use directories and clear naming conventions to make it easy for all members to find and contribute to different parts of the project.
-
-4. **Document Your Data**: Include a data directory with README files explaining the datasets, sources, and any preprocessing steps. This will help new members understand and work with the project's data effectively.
-
-5. **Outline Your Methods**: Create a detailed METHODS.md file where you describe the methodologies, software, and tools you will be using in your research. This transparency will support reproducibility and collaborative development.
-
-6. **Set Up Project Management**: Utilize the 'Issues' and 'Projects' features on GitHub to track tasks, discuss ideas, and manage your workflow. This can help in maintaining a clear view of progress and priorities.
-
-7. **Add a License**: Choose and include an appropriate open-source license for your project, ensuring that the broader community understands how they can use and contribute to your work.
-
-8. **Create Contribution Guidelines**: Establish a CONTRIBUTING.md file with instructions for members on how to propose changes, submit issues, and contribute code.
-
-9. **Review and Merge Workflow**: Decide on a workflow for reviewing and merging changes. Will you use branch protection? Who will have merge privileges? Document this process to avoid confusion.
-
-10. **Establish Communication Channels**: Beyond GitHub, set up additional communication channels like Slack, Discord, or email lists for quick and informal discussions.
-
-Remember, the goal is to make your repository clear, accessible, and useful for all current and future members of your working group. Happy researching!
-
+## About the Author
+Keiko Nomura is a marine social-ecological systems scientist focused on fisheries sustainability and marine resource management. Her ocean-centered research has covered topics like marine spatial planning, small-scale fisheries adaptation, and conflict and cooperation in international fisheries. She combines quantitative network and spatial analyses with qualitative governance contexts to address key questions on ocean resource use. As a Postdoctoral Researcher at ESIIL at CU Boulder, she is now exploring how social-ecological factors influence seafood trade in the Pacific and, in turn, how this supports food security and sustainable development in the region.
+ 
