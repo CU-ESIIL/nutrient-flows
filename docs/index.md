@@ -1,5 +1,8 @@
 # Seafood Trade and Nutrient Flows in Pacific Island Countries
 
+Welcome to the project repository of Keiko Nomura, a postdoctoral researcher at the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+
+
 ## Project Summary
 
 Aquatic food trade distributes essential dietary nutrients from fisheries to countries around the world. However, these international trade networks can be impacted by a range of environmental or socioeconomic factors, like changes in fisheries management, trade relations, industry financing, and more. Such disruptions can lower fisheries production and/or increase seafood imports, with potentially more severe negative impacts on already nutrient-insecure countries that are vulnerable to supply chain changes. In Oceania, several Pacific Island countries may be especially vulnerable to negative outcomes from fisheries supply chain changes. Health-wise, the region’s caloric needs are highly dependent on imports, unhealthy food imports are rising, and diet-related health ailments remain a challenge. Additionally, much of the global tuna supply is harvested from the productive Pacific Ocean waters surrounding these countries, but the nutrients from these fisheries tend to flow towards more nutrient-secure countries via trade and foreign fishing. Pacific Island countries may therefore occupy the role of “source” for seafood, while not receiving many social or health benefits. A thorough understanding of how seafood-derived nutrients move through international trade networks is therefore crucial for equitable progress towards desired development outcomes.
